@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Science & Artificial intelligence!
 - 🌱 I’m currently learning Web Development in PHP, JavaScript, HTMl, CSS, Java & Python!  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me priyammahajancs@gmail.com
+- 📫 How to reach me priyammahajan17@gmail.com
 
 <!---
 priyamcoding/priyamcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
