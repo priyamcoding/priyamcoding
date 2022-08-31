@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyamcoding
 - 👀 I’m interested in Machine Learning, Data Science & Artificial intelligence!
-- 🌱 I’m currently learning Web Development in PHP, JavaScript, HTMl, CSS, Java & Python!  
+- 🌱 I’m currently learning Python, REST API, Terraform, Django , AWS and Data Science!  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me priyammahajan17@gmail.com
 
